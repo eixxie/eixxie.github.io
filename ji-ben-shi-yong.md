@@ -20,7 +20,11 @@
 
 2、使用命令对已经创建的Book进行编译
 
-> 找到需要编译的书籍所在目录，执行gitbook serve 命令,在本电脑的默认路径为C:UsersQGYGitBookLibraryImportgitbooksimpletutorial，如图所示
+> 找到需要编译的书籍所在目录，执行gitbook serve 命令,在本电脑的默认路径为C:Users\QGY\GitBook\Library\Importgitbooksimpletutorial，如图所示
 
 ![](https://segmentfault.com/img/bVyKAb)
+
+> 也可以直接执行gitbook build命令,生成默认存放在\_book目录的HTML文件，这些文件需要通过HTTP服务器访问
+
+
 
