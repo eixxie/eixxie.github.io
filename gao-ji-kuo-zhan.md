@@ -10,30 +10,30 @@
 {
 
     //样式风格配置格式
-    
+
 "styles"
 : {
-        
+
 "website"
 : 
 "styles/website.css"
 ,
-        
+
 "ebook"
 : 
 "styles/ebook.css"
 ,
-        
+
 "pdf"
 : 
 "styles/pdf.css"
 ,
-        
+
 "mobi"
 : 
 "styles/mobi.css"
 ,
-        
+
 "epub"
 : 
 "styles/epub.css"
@@ -42,18 +42,18 @@
 
     //插件安装配置格式
 
-    
+
 "plugins"
 : [
 "myplugin"
 ],
-    
+
 "pluginsConfig"
 : {
-        
+
 "myPlugin"
 : {
-            
+
 "message"
 : 
 "Hello World"
@@ -116,13 +116,13 @@ plugin
 : [
 "toggle-chapters"
 ],
-    
+
 "pluginsConfig"
 : {
-        
+
 "myPlugin"
 : {
-            
+
 "message"
 : 
 "Hello World"
