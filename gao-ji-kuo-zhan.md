@@ -95,23 +95,14 @@ npm install gitbook-plugin-toggle-chapters--save-dev
 二、通过Book.json配置插件
 
 ```
-"plugins"
-: [
-"toggle-chapters"
-],
+"plugins": ["toggle-chapters"],
 
-"pluginsConfig"
-: {
-
-"myPlugin"
-: {
-
-"message"
-: 
-"Hello World"
-
-        }
-     }
+"pluginsConfig": 
+{"myPlugin": 
+    {"message":
+        "Hello World"
+    }
+ }
 ```
 
 
