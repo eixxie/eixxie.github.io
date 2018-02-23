@@ -33,7 +33,7 @@
 
 3、检验下是否安装成功
 
-> gitbook -V //显示0.4.2
+> gitbook -V //显示x.x.x
 
 ## Git {#articleHeader4}
 
