@@ -83,30 +83,13 @@
 * 默认安装在以下路径
 
 ```
-C:
-\U
-sers
-\Q
-GY
-\A
-ppData
-\R
-oaming
-\n
-pm
-\n
-ode_modules
+C:\Users\QGY\AppData\Roaming\npm\node_modules
 ```
 
 * 把插件文件夹复制到
 
 ```
-npm
-install
-gitbook-
-plugin
--toggle-chapters
---save-dev
+npm install gitbook-plugin-toggle-chapters--save-dev
 ```
 
 二、通过Book.json配置插件
